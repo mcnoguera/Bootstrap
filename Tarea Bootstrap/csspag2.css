@@ -1,0 +1,45 @@
+h3 {
+    color: #f5f5f5;
+}
+
+.banner {
+    background-color: saddlebrown;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.left {
+    background-color: orangered;
+}
+
+.menu {
+    background-color: rosybrown;
+}
+
+.letrasOf {
+    color: black;
+    font-size: 1vw;
+}
+
+.letrasO {
+    color: black;
+}
+
+.rosa {
+    background-color: hotpink;
+}
+
+.azul {
+    background-color: lightskyblue;
+}
+
+.contenido {
+    padding: 90px 90px 90px 90px;
+    text-align: center;
+}
+
+.contenidoa {
+    padding: 90px 90px 90px 90px;
+    text-align: center;
+    background-color: lightslategrey;
+}
